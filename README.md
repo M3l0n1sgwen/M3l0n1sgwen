@@ -34,9 +34,6 @@
   <b><a href="https://github.com/M3l0n1sgwen/Write-up-for-Reverse-Master-CSCV2025">Write-up-for-Reverse-Master-CSCV2025</a></b><br/>
   <sub>A little share post about this challenge!</sub>
 </td>
-<td>
-  <b><a href="https://github.com/M3l0n1sgwen">More on my GitHub →</a></b><br/>
-</td>
 </tr>
 </table>
 
