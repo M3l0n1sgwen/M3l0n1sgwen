@@ -37,7 +37,7 @@
 </tr>
 </table>
 
-### 🧰 Stack (minimal)
+### 🧰 Language
 ![C](https://img.shields.io/badge/C-0f1216?style=for-the-badge&logo=c&logoColor=60d0ff)
 ![Python](https://img.shields.io/badge/Python-0f1216?style=for-the-badge&logo=python&logoColor=b7a8f5)
 ![Ghidra](https://img.shields.io/badge/Ghidra-0f1216?style=for-the-badge&logo=gnubash&logoColor=f5a8c7)
