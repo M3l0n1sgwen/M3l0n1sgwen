@@ -1,6 +1,5 @@
 <!-- Banner (replace link with your preferred image) -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0f/12/34/0f123456789abcd.jpg" alt="Banner" width="80%">
 </p>
 
 <h1 align="center">🍵 Hi, I'm Melon — a REV player</h1>
@@ -14,6 +13,7 @@
 
 ### ✍️ Latest Patch Notes
 - **18.10.25:** CSCV2025 Write-up published
+- **11.11.25:**BuckeyeCTF 2025 Write-up published
 
 ### 🌱 Now
 - Learning: **Assembly + C**
