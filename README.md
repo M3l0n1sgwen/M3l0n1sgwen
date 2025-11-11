@@ -13,7 +13,7 @@
 
 ### ✍️ Latest Patch Notes
 - **18.10.25:** CSCV2025 Write-up published
-- **11.11.25:**BuckeyeCTF 2025 Write-up published
+- **11.11.25:** BuckeyeCTF 2025 Write-up published
 
 ### 🌱 Now
 - Learning: **Assembly + C**
