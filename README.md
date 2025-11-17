@@ -5,15 +5,16 @@
 <h1 align="center">🍵 Hi, I'm Melon — a REV player</h1>
 
 <p align="center">
-  <b>REV/CTF • Cyber-Security • MSEC</b><br/>
-  <sub>Love reversing something 💀</sub>
+  <b>REV/CTF • Cyber Security • MSEC</b><br/>
+  <sub>Love reversing something 💻</sub>
 </p>
 
 ---
 
 ### ✍️ Latest Patch Notes
-- **18.10.25:** CSCV2025 Write-up published
+- **18.10.25:** CSCV2025 Quals Write-up published
 - **11.11.25:** BuckeyeCTF 2025 Write-up published
+- **18.11.25:** CSCV2025 Final Write-up published
 
 ### 🌱 Now
 - Learning: **Assembly + C**
