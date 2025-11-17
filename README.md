@@ -22,29 +22,7 @@
 ---
 
 ### 📚 Write-ups (Latest Projects)
-<table>
-  <tr>
-    <td>
-      <b><a href="https://github.com/M3l0n1sgwen/Write-up-for-REEZS-CSCV2025">Write-up-for-REEZS-CSCV2025</a></b><br/>
-      <sub>A little share post about this challenge!</sub>
-    </td>
-    <td>
-      <b><a href="https://github.com/M3l0n1sgwen/Write-up-for-Chatbot-CSCV2025">Write-up-for-Chatbot-CSCV2025</a></b><br/>
-      <sub>A little share post about this challenge!</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b><a href="https://github.com/M3l0n1sgwen/Write-up-Square-Cipher-BuckeyeCTF-2025">Write-up-Square-Cipher-BuckeyeCTF-2025</a></b><br/>
-      <sub>A little share post about this challenge!</sub>
-    </td>
-    <td>
-      <b><a href="https://github.com/M3l0n1sgwen/Write-up-for-Reverse-Master-CSCV2025">Write-up-for-Reverse-Master-CSCV2025</a></b><br/>
-      <sub>A little share post about this challenge!</sub>
-    </td>
-  </tr>
-</table>
-
+<table> <tr> <td> <b><a href="https://github.com/M3l0n1sgwen/Write-up-for-REEZS-CSCV2025">Write-up-for-REEZS-CSCV2025</a></b><br/> <sub>A little share post about this challenge!</sub> </td> <td> <b><a href="https://github.com/M3l0n1sgwen/Write-up-for-Chatbot-CSCV2025">Write-up-for-Chatbot-CSCV2025</a></b><br/> <sub>A little share post about this challenge!</sub> </td> </tr> <tr> <td> <b><a href="https://github.com/M3l0n1sgwen/Write-up-Square-Cipher-BuckeyeCTF-2025">Write-up-Square-Cipher-BuckeyeCTF-2025</a></b><br/> <sub>A little share post about this challenge!</sub> </td> <td> <b><a href="https://github.com/M3l0n1sgwen/Write-up-for-Reverse-Master-CSCV2025">Write-up-for-Reverse-Master-CSCV2025</a></b><br/> <sub>A little share post about this challenge!</sub> </td> </tr> <tr> <td> <b><a href="https://github.com/M3l0n1sgwen/Write-up-CSCV2025-final-REV-challenges">Write-up-CSCV2025-final-REV-challenges</a></b><br/> <sub>A little share post about this challenge!</sub> </td> </tr> </table>
 ---
 
 ### 🧰 Languages & Tools
