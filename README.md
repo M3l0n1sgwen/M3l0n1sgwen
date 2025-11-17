@@ -41,6 +41,6 @@
 ---
 
 <p align="center">
-  <sub>☕ Reverse. Write. Repeat.</sub>
+  <sub> Reverse. Malware. Program </sub>
 </p>
 
